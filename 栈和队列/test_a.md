@@ -1,3 +1,4 @@
+### 这是一个链栈
 	#include<iostream> 
 	using namespace std;
 	typedef char ElemType;
