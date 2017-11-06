@@ -1,3 +1,4 @@
+### 这是一个顺序循环队列
 	#include<iostream>
 	using namespace std;
 	typedef char ElemType;
